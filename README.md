@@ -1,8 +1,6 @@
 # Stable-Texturify
 Create textures for 3d models using stable-diffusion  and blender
 
-Certainly! Here's the README file in English using Markdown format:
-
 # README
 
 ## Installation Requirements
