@@ -85,7 +85,7 @@ Finally, you will get a model_with_texture_remap.fbx file
 ![QQ20230905-152331](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/f99102a5-1fb4-4401-9fcf-db5bf6c2cb49)
 ## Help and Support
 
-If you encounter any issues during installation or usage, please feel free to reach out to our support team at any time. You can also submit issues or request help on our [GitHub repository](https://github.com/your-project-repo).
+If you encounter any issues during installation or usage, please feel free to reach out to our support team at any time. You can also submit issues or request help on our [GitHub repository](https://github.com/PrAYtele/Stable-Texturify).
 
 ## License
 
