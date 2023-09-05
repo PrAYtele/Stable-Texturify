@@ -1,0 +1,32 @@
+fbx_model_path: "./tmp.obj"
+output_folder: './'
+# textures:
+#   back: "path/to/your/texture/back.png"
+#   front: "path/to/your/texture/front.png"
+#   left: "path/to/your/texture/left.png"
+sd_model_checkpoint: 'darkSushi25D25D_v40.safetensors'
+seg_node:
+  random_color: True
+depth_node:
+  map_value_node_offset: 0.5
+  map_value_node_size: 0.7
+camera:
+  view: ['back','front','left','right']
+  distance: 1.5
+  side_angle: 80
+resolution:
+  width: 1600
+  height: 1600
+textures: {
+    back: "./Sres_0.png",
+    front: "./Sres_1.png",
+    left: "./Sres_2.png"
+    # 'right': sides_image
+}
+inpaint_textures: {
+    back: "./Sres_0_brinting.png",
+    front: "./Sres_1_brinting.png",
+    left: "./Sres_inpainted_1.png",
+    right: "./Sres_inpainted_0.png"
+}
+project_order: ['back','front','left','right']
