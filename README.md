@@ -9,9 +9,9 @@ Certainly! Here's the README file in English using Markdown format:
 
 To successfully use this project, you need to meet the following installation requirements:
 
-1. **automatic1111 webui:** Ensure that you have installed automatic1111 webui. You can download it from the [official website]((https://github.com/AUTOMATIC1111/stable-diffusion-webui)) and follow their installation instructions.
+1. **automatic1111 webui:** Ensure that you have installed automatic1111 webui. You can download it from the [official website](https://github.com/AUTOMATIC1111/stable-diffusion-webui) and follow their installation instructions.
 
-2. **controlnet:** Make sure you have controlnet installed. You can obtain it from the [GitHub repository]((https://github.com/Mikubill/sd-webui-controlnet)) and follow its installation documentation.
+2. **controlnet:** Make sure you have controlnet installed. You can obtain it from the [GitHub repository](https://github.com/Mikubill/sd-webui-controlnet) and follow its installation documentation.
 
 3. **Blender 2.93 with Python:** You need to install Blender version 2.93 and ensure it supports Python. You can download and install it from the [official Blender website](https://www.blender.org/download/).
 
