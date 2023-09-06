@@ -91,6 +91,10 @@ Finally, you will get a model_with_texture_remap.fbx file
 ![concatenated_image](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/54c060c9-920e-40d0-88fd-eb6f683d685f)
 ![concatenated_lineart](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/db71a7cd-6c8c-4239-bb58-e357faaaaabc)
 
+Adjust your arguments for sd-webui and you will get character concept picture like this:
+
+![output_image](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/8dd375ca-4513-4321-83ec-c17430a66838)
+
 3.Run run_vrm.sh and you got it:
 
 https://github.com/PrAYtele/Stable-Texturify/assets/49559621/fe95ee07-13f6-413d-a5b0-59aa29072715
