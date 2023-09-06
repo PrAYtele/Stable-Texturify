@@ -1,5 +1,5 @@
 # Stable-Texturify
-Create textures for 3d models using stable-diffusion  and blender
+Create textures for 3d models using stable-diffusion and blender
 
 # README
 
@@ -81,7 +81,22 @@ Finally, you will get a model_with_texture_remap.fbx file
 
 ![QQ20230905-152311](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/5537d452-6e08-4a9c-b10b-83e6e21ee6bb)
 ![QQ20230905-152331](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/f99102a5-1fb4-4401-9fcf-db5bf6c2cb49)
+## For VRM model
+1.Original model like this:
+![QQ20230906-150146](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/897950da-4ab9-47eb-97c9-e71e17eeda60)
+2.Request sd-webui use depth map and lineart like this:
+![concatenated_image](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/54c060c9-920e-40d0-88fd-eb6f683d685f)
+![concatenated_lineart](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/db71a7cd-6c8c-4239-bb58-e357faaaaabc)
+3.Run run_vrm.sh and you got it:
+
+https://github.com/PrAYtele/Stable-Texturify/assets/49559621/fe95ee07-13f6-413d-a5b0-59aa29072715
+
+
 ## Help and Support
+
+https://github.com/PrAYtele/Stable-Texturify/assets/49559621/575afff0-d532-47e2-a8ab-c0d08937833b
+
+
 
 If you encounter any issues during installation or usage, please feel free to reach out to our support team at any time. You can also submit issues or request help on our [GitHub repository](https://github.com/PrAYtele/Stable-Texturify).
 
