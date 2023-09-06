@@ -1,5 +1,8 @@
 # Stable-Texturify
-Create textures for 3d models using stable-diffusion and blender
+Create textures for 3d cloth and avatar using stable-diffusion and blender
+
+![depth_back_0001](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/0b8327de-f7ab-4cf6-bb7c-51f9225e86dd)![resample_1](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/210acd58-929a-4c95-ad74-cc802cebaad3)![QQ20230906-152840](https://github.com/PrAYtele/Stable-Texturify/assets/49559621/99364035-6085-4b90-9fbb-d663346e6325)
+
 
 # README
 
